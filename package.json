@@ -1,0 +1,10 @@
+{
+  "name": "obj-baseprop",
+  "version": "1.0.0",
+  "description": "Define and access base properties for nested objects.",
+  "main": "ObjBaseProp.js",
+  "repository": "https://github.com/yoannisj/obj-baseprop",
+  "author": "Yoannis Jamar <office@yoannis.com>",
+  "license": "MIT",
+  "private": false
+}
